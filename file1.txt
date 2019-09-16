@@ -1,2 +1,2 @@
-I am happy to learn Gitl.
+I am happy to learn Git.
 It is very useful.
